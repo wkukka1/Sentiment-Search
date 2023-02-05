@@ -8,5 +8,5 @@ representations of words in a sentence.
 # Webscraping
 Uses the package snsrape to obtain the tweets
 
-#Updates 
+# Updates 
 This no longer works due to Twitter removing free acsess to their api's 
